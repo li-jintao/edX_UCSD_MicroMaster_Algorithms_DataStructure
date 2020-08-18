@@ -8,5 +8,5 @@ You can find detailed information in this below link: https://www.edx.org/microm
 
 Caution: Please keep in mind the course's policy on academic honesty is crucial and do not copy and paste part or whole of codes in this project for your own assignments.
 
-Author: Jintao Li 
+Author: Jintao Li  
 Personal Link: https://li-jintao.github.io
