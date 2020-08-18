@@ -6,7 +6,7 @@ Still on progress, and the expected completion time is the end of 2020.
 
 I mainly use c++ or python, depending on type of the question.
 
-You can find detailed information in this below link: https://www.edx.org/micromasters/ucsandiegox-algorithms-and-data-structures
+You can find detailed information in this link: https://www.edx.org/micromasters/ucsandiegox-algorithms-and-data-structures
 
 Caution: Please keep in mind the course's policy on academic honesty is crucial and do not copy and paste part or whole of codes in this project for your own assignments.
 
