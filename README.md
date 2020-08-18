@@ -2,6 +2,8 @@
 
 This project is designed to archive all the programming assignments toward completing the MicroMaster Program of Algorithms and Data Structure provided by The University of California, San Diego and edX.
 
+Still on progress, and the expected completion time is the end of 2020.
+
 I mainly use c++ or python, depending on type of the question.
 
 You can find detailed information in this below link: https://www.edx.org/micromasters/ucsandiegox-algorithms-and-data-structures
