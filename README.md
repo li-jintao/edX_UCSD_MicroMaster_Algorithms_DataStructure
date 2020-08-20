@@ -8,7 +8,7 @@ I mainly use c++ or python, depending on type of the question.
 
 You can find detailed information in this link: https://www.edx.org/micromasters/ucsandiegox-algorithms-and-data-structures
 
-Caution: Please keep in mind the course's policy on academic honesty is strict and do not copy and paste part or whole of codes in this project for your own assignments. 
+Caution: Please keep in mind the course's policy on academic honesty is strict and do not copy and paste part or whole of codes in this project for your own assignments. Reference only and not guaranteed to be accurate or optimal solution.
 
 Author: Jintao Li  
 Personal Link: https://li-jintao.github.io
